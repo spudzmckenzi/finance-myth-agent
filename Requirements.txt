@@ -1,4 +1,4 @@
 openai
 requests
 schedule
-python-dotenv
+tweepy
